@@ -11,7 +11,7 @@ The purpose of this analysis is to provide a summary of hihgh school student per
   - % passing reading dropped from 86.0% to 84.5%
   - % overall passing dropped from 65.0% to 64.9%
 
-![districtsummary](Resources\DistrictSummary.png)
+![districtsummary](Resources/DistrictSummary.png)
 
 - After removing 9th grade math and reading scores at Thomas High School, the school's metrics change as follows: 
   - Average math score drops from 83.41 to 83.35
@@ -22,21 +22,25 @@ The purpose of this analysis is to provide a summary of hihgh school student per
 
 - Thomas High School is the only school directly impacted by replacing 9th grade scores.
 
-![schoolsummary](Resources\SchoolSummary.png)
+![schoolsummary](Resources/SchoolSummary.png)
 
 Math and reading scores by grade
-![MathReadingScoresByGrade](Resources\MathReadingScoresByGrade.png)
+
+![MathReadingScoresByGrade](Resources/MathReadingScoresByGrade.png)
 
 Scores by school spending
-![ScoresBySchoolSpending](Resources\ScoresBySchoolSpending.png)
+
+![ScoresBySchoolSpending](Resources/ScoresBySchoolSpending.png)
 
 Scores by school size
-![ScoresBySchoolSize](Resources\ScoresBySchoolSize.png)
 
-![ScoresBySchoolSize2](Resources\ScoresBySchoolSize2.png)
+![ScoresBySchoolSize](Resources/ScoresBySchoolSize.png)
+
+![ScoresBySchoolSize2](Resources/ScoresBySchoolSize2.png)
 
 Scores by school type
-![ScoresBySchoolType](Resources\ScoresBySchoolType.png)
+
+![ScoresBySchoolType](Resources/ScoresBySchoolType.png)
 
 
 ## Summary
